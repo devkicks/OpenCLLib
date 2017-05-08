@@ -1,0 +1,16 @@
+opencv_calib3d320.lib
+opencv_core320.lib
+opencv_features2d320.lib
+opencv_flann320.lib
+opencv_highgui320.lib
+opencv_imgcodecs320.lib
+opencv_imgproc320.lib
+opencv_ml320.lib
+opencv_objdetect320.lib
+opencv_photo320.lib
+opencv_shape320.lib
+opencv_stitching320.lib
+opencv_superres320.lib
+opencv_video320.lib
+opencv_videoio320.lib
+opencv_videostab320.lib
